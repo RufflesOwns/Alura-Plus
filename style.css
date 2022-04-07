@@ -157,3 +157,5 @@ padding: 0;
     background-color: var(--botao-azul-efeito);
     color: var(--cor-fundo);
 }
+
+@media screen and (max-width: 480px)
